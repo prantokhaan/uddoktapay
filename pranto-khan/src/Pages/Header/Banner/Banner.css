@@ -1,0 +1,16 @@
+.hero-section {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.discover-more {
+    background-color: #ff8743;
+    box-shadow: -100px 0px 68px -1px #ff8743 inset;
+    border-style: solid;
+    padding: 15px 40px;
+    color: white;
+    font-size: 18px;
+    border-width: 0px 0px 0px 0px;
+    border-radius: 50px 50px 50px 50px;
+}

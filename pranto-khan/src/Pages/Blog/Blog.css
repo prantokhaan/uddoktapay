@@ -1,0 +1,37 @@
+.blog {
+    padding: 80px 0;
+    margin-bottom: 60px;
+}
+
+.news {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.more-btn {
+    border: none;
+    background-color: #ff8743;
+    color: white;
+    padding: 6px 24px;
+    border-radius: 30px;
+}
+
+.blog-item {
+    box-shadow: 2px 4px 8px rgb(63, 62, 62);
+    border-radius: 40px;
+    overflow: hidden;
+}
+
+.blog-item p {
+    font-size: 14px;
+}
+
+.blog-header:hover {
+    color: yellowgreen;
+}
+
+.blog-card {
+    /* overflow: hidden; */
+
+}

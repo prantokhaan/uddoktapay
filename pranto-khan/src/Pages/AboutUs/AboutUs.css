@@ -1,0 +1,15 @@
+.about-bg {
+    background-color: #EDF1FC;
+    padding: 100px 0;
+}
+
+.icons {
+    background: #fff;
+    border-radius: 50%;
+}
+
+.bord {
+    border: 1px solid white;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}

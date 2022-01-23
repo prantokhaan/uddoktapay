@@ -1,0 +1,23 @@
+.ooutline {
+    background-color: rgb(92, 79, 216);
+    color: black;
+    outline: 2px solid white;
+    padding: 10px 40px;
+    border-radius: 50px 50px;
+    text-decoration: none;
+    transition: ease-in-out 1s;
+}
+
+.login {
+    background-color: rgb(191, 216, 79);
+    color: black;
+    outline: 2px solid white;
+    padding: 10px 40px;
+    border-radius: 50px 50px;
+    transition: ease-in-out 1s;
+}
+
+.items {
+    display: flex;
+    align-items: center;
+}
